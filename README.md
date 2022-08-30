@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMAN PATEL</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
-- 🌱 I’m currently learning **Express.js, Angular.js, Bootstrap, Monaca**
+- 🌱 I’m currently working **Nodejs, Express.js, Angular.js, HTML, CSS, Bootstrap, Monaca**
 
 - 👨‍💻 All of my projects are available at [https://patelaman960.netlify.app/](https://patelaman960.netlify.app/)
 
