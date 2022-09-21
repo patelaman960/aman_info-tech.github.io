@@ -355,12 +355,29 @@ img {
   overflow: hidden;
 }
 
+.hide{ display: none;}
+
+.work__img img:hover + .hide {
+  display: block;
+  color: rgb(14, 14, 14);
+  text-align:center ;
+  text-decoration: solid;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 06px;
+  padding-left: 50px;
+  border: black;
+  background-color: lightblue;
+
+}
+
 .work__img img {
   transition: 1s;
 }
 
 .work__img img:hover {
   transform: scale(1.1);
+
 }
 
 /* ===== CONTACT =====*/
